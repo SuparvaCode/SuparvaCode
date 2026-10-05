@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Suparva Baranwal 👋
+# Hi there, I'm Suparva 👋
 ### AI Systems & Full-Stack Engineer • Open Source Contributor
 
 <p align="center">
